@@ -1,6 +1,6 @@
 # Applied Data Science Specialisation Capstone - Final
 
-The Battle of Neighbourhoods using Foursquare API.
+Stockholm County Segmentation and clustering using location data from the Foursquare API.
 
 ## Description
 
