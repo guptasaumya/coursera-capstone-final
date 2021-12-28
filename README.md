@@ -1,6 +1,6 @@
 # Applied Data Science Specialisation Capstone - Final
 
-Stockholm County Segmentation and clustering using location data from the Foursquare API.
+Stockholm County segmentation and clustering using location data from the Foursquare API.
 
 ## Description
 
